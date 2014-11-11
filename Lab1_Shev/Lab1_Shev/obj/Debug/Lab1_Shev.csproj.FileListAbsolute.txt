@@ -1,0 +1,12 @@
+D:\Учеба\ОП Лабы\Lab1\Lab1_Shev\Lab1_Shev\bin\Debug\Lab1_Shev.exe.config
+D:\Учеба\ОП Лабы\Lab1\Lab1_Shev\Lab1_Shev\obj\Debug\Lab1_Shev.csprojResolveAssemblyReference.cache
+D:\Учеба\ОП Лабы\Lab1\Lab1_Shev\Lab1_Shev\obj\Debug\Lab1_Shev.Properties.Resources.resources
+D:\Учеба\ОП Лабы\Lab1\Lab1_Shev\Lab1_Shev\obj\Debug\Lab1_Shev.csproj.GenerateResource.Cache
+D:\Учеба\ОП Лабы\Lab1\Lab1_Shev\Lab1_Shev\bin\Debug\Lab1_Shev.exe
+D:\Учеба\ОП Лабы\Lab1\Lab1_Shev\Lab1_Shev\bin\Debug\Lab1_Shev.pdb
+D:\Учеба\ОП Лабы\Lab1\Lab1_Shev\Lab1_Shev\obj\Debug\Lab1_Shev.exe
+D:\Учеба\ОП Лабы\Lab1\Lab1_Shev\Lab1_Shev\obj\Debug\Lab1_Shev.pdb
+D:\Учеба\ОП Лабы\Lab1\Lab1_Shev\Lab1_Shev\obj\Debug\Lab1_Shev.Lab1_Shev.resources
+D:\Учеба\ОП Лабы\Решения\Lab1_Shev\Lab1_Shev\bin\Debug\Lab1_Shev.exe.config
+D:\Учеба\ОП Лабы\Решения\Lab1_Shev\Lab1_Shev\obj\Debug\Lab1_Shev.exe
+D:\Учеба\ОП Лабы\Решения\Lab1_Shev\Lab1_Shev\obj\Debug\Lab1_Shev.pdb
