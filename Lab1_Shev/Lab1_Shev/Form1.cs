@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//A ESLI NAIDU?
 namespace Lab1_Shev
 {
     public partial class Lab1_Shev : Form
