@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//NETU MENYA
 namespace Lab1_Shev
 {
     static class Program
